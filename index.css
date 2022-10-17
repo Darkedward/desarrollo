@@ -1,19 +1,6 @@
-<<<<<<< HEAD
+align-items: center;
 header{
-    align-items: center;
     background-color: red;
     font-size:25px;
     font-family: arial;
 }
-=======
-
-*{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-}
-h1{
-    font-size: 18px;
-
-}
->>>>>>> cabecera
